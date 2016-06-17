@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "phake/phake": "^2.1"
+    }
+}
